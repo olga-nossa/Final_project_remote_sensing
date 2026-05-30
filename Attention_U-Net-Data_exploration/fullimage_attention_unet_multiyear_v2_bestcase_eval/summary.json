@@ -1,0 +1,85 @@
+{
+  "checkpoint": "C:\\Users\\nicof\\Desktop\\proy_olga\\Comparacion_de_metodos\\Modelos generados\\best_attention_unet_multiyear_v2.pth",
+  "base_channels": 16,
+  "mean": [
+    0.550000011920929,
+    0.3499999940395355,
+    0.25
+  ],
+  "std": [
+    0.20000000298023224,
+    0.15000000596046448,
+    0.15000000596046448
+  ],
+  "validation_selected_threshold": 0.7,
+  "selected_validation_images": [
+    {
+      "year": "MY28",
+      "day_key": "P09_day24",
+      "storm_ratio": 0.14385879703729867
+    },
+    {
+      "year": "MY28",
+      "day_key": "P09_day09",
+      "storm_ratio": 0.1620423460656203
+    },
+    {
+      "year": "MY31",
+      "day_key": "D12_day12",
+      "storm_ratio": 0.14753759385595558
+    },
+    {
+      "year": "MY31",
+      "day_key": "D12_day08",
+      "storm_ratio": 0.11750281562881908
+    },
+    {
+      "year": "MY32",
+      "day_key": "F04_day22",
+      "storm_ratio": 0.1253661306632099
+    },
+    {
+      "year": "MY32",
+      "day_key": "F04_day21",
+      "storm_ratio": 0.12498931723803271
+    }
+  ],
+  "selected_test_images": [
+    {
+      "year": "MY28",
+      "day_key": "P09_day31",
+      "storm_ratio": 0.08332051127059314,
+      "iou": 0.24955370387326986,
+      "f1": 0.39942853301328923
+    },
+    {
+      "year": "MY31",
+      "day_key": "D04_day24",
+      "storm_ratio": 0.09292488429975045,
+      "iou": 0.3752887958313886,
+      "f1": 0.5457599800517625
+    },
+    {
+      "year": "MY32",
+      "day_key": "F04_day17",
+      "storm_ratio": 0.08595368793988666,
+      "iou": 0.21743964590334455,
+      "f1": 0.35720808629496564
+    }
+  ],
+  "final_test_metrics": {
+    "threshold": 0.7,
+    "accuracy": 0.8438148619831506,
+    "precision": 0.32228441850441486,
+    "recall": 0.7104930289232558,
+    "f1": 0.44342724762465746,
+    "iou": 0.2848740943618889,
+    "tp": 1056555.0,
+    "fp": 2221776.0,
+    "fn": 430518.0,
+    "tn": 13272882.0,
+    "base_channels": 16,
+    "tile_size": 256,
+    "tile_stride": 256
+  }
+}

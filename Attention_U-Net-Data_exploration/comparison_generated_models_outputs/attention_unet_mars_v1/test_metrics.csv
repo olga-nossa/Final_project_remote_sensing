@@ -1,0 +1,2 @@
+threshold,accuracy,precision,recall,f1,iou,tp,fp,fn,tn,model_name,checkpoint_path
+0.55,0.8907847958653506,0.2464740316611896,0.3642815846426944,0.2940159597715712,0.1723439132383873,355996.0,1088359.0,621259.0,13588049.0,attention_unet_mars_v1,C:\Users\nicof\Desktop\proy_olga\Comparacion_de_metodos\Modelos generados\best_attention_unet_mars.pth

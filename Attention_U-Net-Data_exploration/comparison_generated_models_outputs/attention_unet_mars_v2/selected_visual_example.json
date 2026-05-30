@@ -1,0 +1,18 @@
+{
+  "year": "MARS",
+  "idx": 1,
+  "day_key": "089_D17_day26",
+  "image_id": "089_D17_day26",
+  "split": "test",
+  "image_path": "C:\\Users\\nicof\\Desktop\\proy_olga\\Comparacion_de_metodos\\MARS\\images\\089_D17_day26.png",
+  "mask_path": "C:\\Users\\nicof\\Desktop\\proy_olga\\Comparacion_de_metodos\\MARS\\masks_multiclass\\089_D17_day26_multiclass.png",
+  "x0": 2176,
+  "y0": 1024,
+  "x1": 2432,
+  "y1": 1280,
+  "valid_ratio": 1.0,
+  "storm_ratio": 0.35498046875,
+  "storm_pixels": 23264,
+  "positive_patch": true,
+  "selection_score": 0.004980468750000022
+}

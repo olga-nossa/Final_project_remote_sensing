@@ -1,0 +1,79 @@
+{
+  "checkpoint": "C:\\Users\\nicof\\Desktop\\proy_olga\\Comparacion_de_metodos\\Modelos generados\\best_attention_unet_multiyear_v2.pth",
+  "base_channels": 16,
+  "mean": [
+    0.550000011920929,
+    0.3499999940395355,
+    0.25
+  ],
+  "std": [
+    0.20000000298023224,
+    0.15000000596046448,
+    0.15000000596046448
+  ],
+  "validation_selected_threshold": 0.65,
+  "selected_validation_images": [
+    {
+      "year": "MY28",
+      "day_key": "P09_day24",
+      "storm_ratio": 0.14385879703729867
+    },
+    {
+      "year": "MY28",
+      "day_key": "P09_day09",
+      "storm_ratio": 0.1620423460656203
+    },
+    {
+      "year": "MY31",
+      "day_key": "D12_day12",
+      "storm_ratio": 0.14753759385595558
+    },
+    {
+      "year": "MY31",
+      "day_key": "D12_day08",
+      "storm_ratio": 0.11750281562881908
+    },
+    {
+      "year": "MY32",
+      "day_key": "F04_day22",
+      "storm_ratio": 0.1253661306632099
+    },
+    {
+      "year": "MY32",
+      "day_key": "F04_day21",
+      "storm_ratio": 0.12498931723803271
+    }
+  ],
+  "selected_test_images": [
+    {
+      "year": "MY28",
+      "day_key": "P09_day25",
+      "storm_ratio": 0.11570616977871201
+    },
+    {
+      "year": "MY31",
+      "day_key": "D14_day18",
+      "storm_ratio": 0.09700444521651189
+    },
+    {
+      "year": "MY32",
+      "day_key": "F04_day17",
+      "storm_ratio": 0.08595368793988666
+    }
+  ],
+  "final_test_metrics": {
+    "threshold": 0.65,
+    "accuracy": 0.8236040809561552,
+    "precision": 0.2837882135731107,
+    "recall": 0.508023355273605,
+    "f1": 0.36415491841253744,
+    "iou": 0.22260966404101526,
+    "tp": 847544.0,
+    "fp": 2138993.0,
+    "fn": 820773.0,
+    "tn": 12971797.0,
+    "base_channels": 16,
+    "tile_size": 256,
+    "tile_stride": 128
+  }
+}

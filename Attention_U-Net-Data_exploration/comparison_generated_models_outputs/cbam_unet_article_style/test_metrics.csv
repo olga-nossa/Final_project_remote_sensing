@@ -1,0 +1,2 @@
+threshold,accuracy,precision,recall,f1,iou,tp,fp,fn,tn,model_name,checkpoint_path
+0.75,0.9467705269243352,0.1085224311367757,0.146919030535827,0.1248349398365622,0.0665727768189388,2182320.0,17927071.0,12671576.0,542063104.0,cbam_unet_article_style,C:\Users\nicof\Desktop\proy_olga\Comparacion_de_metodos\Modelos generados\best_cbam_unet_mdad_article_style.pth

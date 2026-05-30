@@ -1,0 +1,18 @@
+{
+  "year": "MY31",
+  "idx": 609,
+  "day_key": "D14_day19",
+  "split": "test",
+  "image_path": "C:\\Users\\nicof\\Desktop\\proy_olga\\Comparacion_de_metodos\\MY31\\selected_top100\\images\\D14_day19.png",
+  "mask_path": "C:\\Users\\nicof\\Desktop\\proy_olga\\Comparacion_de_metodos\\MY31\\selected_top100\\masks\\D14_day19_mask_class.png",
+  "x0": 2004,
+  "y0": 0,
+  "x1": 2692,
+  "y1": 668,
+  "valid_ratio": 0.9974128777329064,
+  "storm_ratio_valid": 0.3476194112064922,
+  "storm_pixels": 159347,
+  "positive_patch": true,
+  "storm_ratio": 0.3476194112064922,
+  "selection_score": 0.0023805887935077763
+}

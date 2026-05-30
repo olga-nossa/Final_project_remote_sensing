@@ -1,0 +1,19 @@
+{
+  "selection_type": "patch",
+  "selected_row": {
+    "year": "MY31",
+    "idx": 609,
+    "day_key": "D14_day19",
+    "split": "test",
+    "image_path": "C:\\Users\\nicof\\Desktop\\proy_olga\\Comparaci\u00f3n de m\u00e9todos\\MY31\\mdgm_rgb\\D14_day19.png",
+    "mask_path": "C:\\Users\\nicof\\Desktop\\proy_olga\\Comparaci\u00f3n de m\u00e9todos\\MY31\\masks_png_all\\D14_day19_mask_class.png",
+    "x0": 2004,
+    "y0": 0,
+    "x1": 2692,
+    "y1": 668,
+    "valid_ratio": 0.9974128777329063,
+    "storm_ratio_valid": 0.3476194112064922,
+    "storm_pixels": 159347,
+    "positive_patch": true
+  }
+}

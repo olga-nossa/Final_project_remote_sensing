@@ -1,0 +1,4 @@
+year,day_key,image_path,mask_path,height,width,valid_ratio,storm_ratio,selection_score,subset
+MY28,P09_day25,C:\Users\nicof\Desktop\proy_olga\Comparacion_de_metodos\MY28\selected_top100\images\P09_day25.png,C:\Users\nicof\Desktop\proy_olga\Comparacion_de_metodos\MY28\selected_top100\masks\P09_day25_mask_class.png,1801,3600,0.8389726386575359,0.11570616977871201,0.034293830221287985,test
+MY31,D14_day18,C:\Users\nicof\Desktop\proy_olga\Comparacion_de_metodos\MY31\selected_top100\images\D14_day18.png,C:\Users\nicof\Desktop\proy_olga\Comparacion_de_metodos\MY31\selected_top100\masks\D14_day18_mask_class.png,1801,3600,0.8967417792584367,0.09700444521651189,0.05299555478348811,test
+MY32,F04_day17,C:\Users\nicof\Desktop\proy_olga\Comparacion_de_metodos\MY32\selected_top100\images\F04_day17.png,C:\Users\nicof\Desktop\proy_olga\Comparacion_de_metodos\MY32\selected_top100\masks\F04_day17_mask_class.png,1801,3600,0.8522162070454685,0.08595368793988666,0.06404631206011334,test

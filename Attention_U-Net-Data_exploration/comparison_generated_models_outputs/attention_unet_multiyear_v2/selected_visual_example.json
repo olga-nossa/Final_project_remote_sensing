@@ -1,0 +1,18 @@
+{
+  "year": "MY32",
+  "idx": 94,
+  "day_key": "D17_day31",
+  "image_id": "MY32_D17_day31",
+  "split": "test",
+  "image_path": "C:\\Users\\nicof\\Desktop\\proy_olga\\Comparacion_de_metodos\\MY32\\mdgm_rgb\\D17_day31.png",
+  "mask_path": "C:\\Users\\nicof\\Desktop\\proy_olga\\Comparacion_de_metodos\\MY32\\masks_png_all\\D17_day31_mask_class.png",
+  "x0": 2304,
+  "y0": 1280,
+  "x1": 2560,
+  "y1": 1536,
+  "valid_ratio": 0.9632415771484376,
+  "storm_ratio": 0.3477275967494099,
+  "storm_pixels": 21951,
+  "positive_patch": true,
+  "selection_score": 0.0022724032505900826
+}
